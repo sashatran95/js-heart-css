@@ -8,7 +8,7 @@
 **Use Javascript & jQuery to select elements in an HTML file and manipulate their CSS.**
 
 - *Fork this repository.*
-- Perform the following tasks on the HTML:
+- In the `main.js` file, write code to perform the following tasks on the HTML:
   1. Select `<header>` — add `.masthead`
   2. Select `<h1>` — remove `.big-heading` & add `.logo`
   3. Select `<main>` — add `.wrapper`
@@ -21,7 +21,7 @@
   10. Select `<dl>` — add `.classification`
   11. Select the `<dt>` tags — remove `.big-label`
   12. Select the last item in the list — make it visible
-- **DO NOT change the HTML.**
+- **DO NOT change the `index.html`.**
 - **DO NOT change the CSS.**
 - *Run it through Markbot and make sure it passes all the checks.*
 
